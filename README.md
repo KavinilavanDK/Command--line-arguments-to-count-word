@@ -21,8 +21,8 @@ Display the total words in the file.
 ## PROGRAM:
 ```
 # Program to find Command--line-arguments-to-count-word
-# Developed by: MONISH N
-# Register no: 212223240097
+# Developed by: KAVI NILAVAN DK
+# Register no: 212223230103
 
 import sys
 fp=open(sys.argv[1])
@@ -36,8 +36,8 @@ fp.close()
 
 ```
 ### OUTPUT:
-![Screenshot 2024-10-16 151532](https://github.com/user-attachments/assets/662a8907-f64c-4344-841d-ba89be2cf1fc)
-![Screenshot 2024-10-16 151554](https://github.com/user-attachments/assets/d55540f6-df95-44c4-8bd8-c764069ae0d1)
+![Screenshot 2024-10-16 160759](https://github.com/user-attachments/assets/6d8def37-0567-4053-a050-10e21992265d)
+![329843782-cd24ef6f-5bc8-43ef-9a31-96b0080d9e0f](https://github.com/user-attachments/assets/687e038f-1cf9-4907-ac5f-f7398a17217f)
 
 
 ## RESULT:
